@@ -5,3 +5,5 @@ My first Git repository.
 
 45
 11.17
+
+22
